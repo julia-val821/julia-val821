@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julia Kolg</h1>
 <h3 align="center">A Software QA Automation Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julia-val821" alt="julia-val821" /></a> </p>
-
 - 🔭 I’m currently working on **GamesRound**
 
 - 📫 How to reach me **juliakolg.qa@gmail.com**
