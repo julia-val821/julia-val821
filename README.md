@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julia Kolg</h1>
+<h1 align="center">Hi 👋, I'm Julia Kolgatina</h1>
 <h3 align="center">A Software QA Automation Engineer</h3>
 
 - 🔭 I’m currently working on **GamesRound**
